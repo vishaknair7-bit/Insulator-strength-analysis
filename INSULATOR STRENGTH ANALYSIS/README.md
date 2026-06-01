@@ -13,6 +13,8 @@ insulator-strength-analysis/
 ├── data/
 │   └── insulator_strength.csv ← Dataset (add your own file here)
 └── README.md
+└──app.py
+
 ```
 
 ---
@@ -46,7 +48,9 @@ insulator-strength-analysis/
 - Python 3.10+
 - Pandas
 - Matplotlib
-- Seaborn
+- plotly express
+- Dash
+
 
 ---
 
